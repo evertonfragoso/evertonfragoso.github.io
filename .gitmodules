@@ -1,3 +1,6 @@
 [submodule "html5-bricks"]
 	path = html5-bricks
 	url = https://github.com/evertonfragoso/html5-bricks
+[submodule "JSPlatformer"]
+	path = JSPlatformer
+	url = https://github.com/evertonfragoso/JSPlatformer
